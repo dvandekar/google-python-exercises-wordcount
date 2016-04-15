@@ -15,7 +15,7 @@ To use this program launch a terminal or command line window such as PowerShell 
 
 * **./wordcount.py** is the program name and execution argument
 * **--count** will return each word sorted alphabetically *OR* **--topcount** will return the top 20 results sorted by occurence in descending order
-* **file** will be the name of the file the wordcount is being performed including the file extension
+* **file** will be the name of the file the wordcount is being performed on including the file extension
 
 ### Future Enhancement Ideas
 
